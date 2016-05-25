@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYDesign3", "MYDesign3\MYDesign3.csproj", "{A544C071-EB24-443B-93F6-AD774A0D38EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSO_LIBS", "D:\VSO\VSO_BunkerService\VSO_LIBS\VSO_LIBS.csproj", "{7716C06F-459C-48B1-A18D-F1C73432C55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A544C071-EB24-443B-93F6-AD774A0D38EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A544C071-EB24-443B-93F6-AD774A0D38EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A544C071-EB24-443B-93F6-AD774A0D38EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A544C071-EB24-443B-93F6-AD774A0D38EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7716C06F-459C-48B1-A18D-F1C73432C55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7716C06F-459C-48B1-A18D-F1C73432C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7716C06F-459C-48B1-A18D-F1C73432C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7716C06F-459C-48B1-A18D-F1C73432C55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
